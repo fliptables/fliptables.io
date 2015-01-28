@@ -11,9 +11,13 @@ body{
 }
 .container{
 	position:fixed;
-	left:40px;
-	bottom:40px;
+	left:0;
+	right:0;
+	bottom:0;
 	font-family:Lato;
+	padding:20px 40px 40px;
+	background-color:#fff;
+	border-top:1px solid rgb(196, 219, 234);
 }
 h1{
 	font-size:80px;
