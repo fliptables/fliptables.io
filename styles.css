@@ -16,8 +16,7 @@ body{
 	bottom:0;
 	font-family:Lato;
 	padding:20px 40px 40px;
-	background-color:#fff;
-	border-top:1px solid rgb(196, 219, 234);
+	background-color:rgba(255,255,255,0.6);
 }
 h1{
 	font-size:80px;
