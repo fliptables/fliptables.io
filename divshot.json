@@ -1,0 +1,6 @@
+{
+  "name": "fliptables",
+  "root": "./",
+  "clean_urls": true,
+  "error_page": "n"
+}
